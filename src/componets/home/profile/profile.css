@@ -1,0 +1,102 @@
+.profile-container{
+	margin-top: 0px;
+}
+.profile-container img{
+	width: 768px;
+	object-fit: cover;
+	border-radius: 10px;
+}
+.social{
+	width: 50%;
+	height: 30px;
+	position: absolute;
+	top: 600px;
+	
+	
+}
+.social i{
+	font-size: 26px;
+	margin-left: 55px;
+	
+}
+
+.title{
+	font-size: 30px;
+	color: #fff;
+}
+.boder{
+	position: absolute;
+	top: -10px;
+	left: 3px;
+	border: 1px solid black;
+	height: 50px;
+	width: 50px;
+	padding-right: 30px;
+	border-radius: 100px;
+	margin-left: 40px;
+}
+.boder2{
+	position: absolute;
+	top: -10px;
+	left: 90px;
+	border: 1px solid black;
+	height: 50px;
+	width: 50px;
+	padding-right: 30px;
+	border-radius: 100px;
+	margin-left: 40px;
+
+}
+.boder3{
+	position: absolute;
+	top: -10px;
+	left: 172px;
+	border: 1px solid black;
+	height: 50px;
+	width: 50px;
+	padding-right: 30px;
+	border-radius: 100px;
+	margin-left: 40px;
+}
+.boder4{
+	position: absolute;
+	top: -10px;
+	left: 255px;
+	border: 1px solid black;
+	height: 50px;
+	width: 50px;
+	padding-right: 30px;
+	border-radius: 100px;
+	margin-left: 40px;
+}
+.boder5{
+	position: absolute;
+	top: -10px;
+	left: 335px;
+	border: 1px solid black;
+	height: 50px;
+	width: 50px;
+	padding-right: 30px;
+	border-radius: 100px;
+	margin-left: 40px;
+}
+.boder6{
+	position: absolute;
+	top: -10px;
+	left: 410px;
+	border: 1px solid black;
+	height: 50px;
+	width: 50px;
+	padding-right: 30px;
+	border-radius: 100px;
+	margin-left: 40px;
+}
+.stream{
+	position: absolute;
+	top: -50px;
+	left:270px;
+}
+.stream span{
+	color: #fff;
+	font-size: 20px;
+}
